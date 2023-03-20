@@ -1,3 +1,9 @@
+# image data
+.jpg
+##specifil folder
+temp_down_images/
+#config files from bot
+config/
 # History files
 .Rhistory
 .Rapp.history
